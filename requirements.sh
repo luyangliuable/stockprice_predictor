@@ -16,3 +16,4 @@ pip install seaborn
 pip install sklearn
 pip install nltk
 pip install torch torchvision torchaudio
+pip install yfinance
